@@ -6,4 +6,4 @@ Library support:
   Uses Arduino core for selected processor - wiFi, WiFiclient, DNS, Webserver, OTAupdate
   Also Time, TimeZone, Wire, SPI, Streaming output,
     ArduinoJSON, PubSubClient.
-  Plus this uses my proprietary myESPEEPROM and FSM code.
+  Plus this uses my proprietary myESPEEPROM, prettyPlotPoint and FSM code.
